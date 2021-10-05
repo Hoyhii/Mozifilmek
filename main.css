@@ -1,12 +1,40 @@
 .filmadatok{
     background-color: black;
     color: rgb(0, 174, 255);
-    padding-top: 1em;
     padding-bottom: 1em;
+    padding-top: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
     text-align: center;
 }
 .filmadatok button{
-    color: rgb(0, 174, 255);
-    border: rgb(0, 174, 255);
+    color: aqua;
+    border: aqua;
+    border-radius: 1em;
+    background-color:grey;
     padding:4px 10px;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.table{
+    color: aqua;
+}
+
+.hiba{
+    color: red;
+    background-color:white;
+    border-radius:1em;
+    margin-top: 1em;
+}
+
+h1{
+    background-color:rgb(46, 46, 46);
+    color: aqua;
+    text-align: center;
+    border-radius: 1em;
+}
+
+input{
+    border-radius:1em;
 }
