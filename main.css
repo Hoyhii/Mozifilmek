@@ -1,0 +1,12 @@
+.filmadatok{
+    background-color: black;
+    color: rgb(0, 174, 255);
+    padding-top: 1em;
+    padding-bottom: 1em;
+    text-align: center;
+}
+.filmadatok button{
+    color: rgb(0, 174, 255);
+    border: rgb(0, 174, 255);
+    padding:4px 10px;
+}
